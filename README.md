@@ -145,8 +145,14 @@ To make it more visual, the display uses color-coding based on sensor values.
 
 ```bash
 📁 ST7789-Display-Tutorial/
-├── hello-world.ino              # Hello world display test
-├── temp-and-humidity.ino        # Weather dashboard using DHT11
+
+├── code/
+│   ├── colorful-animation/
+│   │   ├── colorful-animation.ino       # Colorful animation to test the screen
+│   ├── hello-word/
+│   │   ├── hello-world.ino              # Hello world display test
+│   ├── temp-and-humidity/
+│   │   ├── temp-and-humidity.ino        # Weather dashboard using DHT11
 ├── images/
 │   ├── arduino-nano-with-st7789.png
 │   ├── environment-monitoring-table.png
