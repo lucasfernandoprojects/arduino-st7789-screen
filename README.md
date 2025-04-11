@@ -10,8 +10,7 @@ This project will teach you how to:
 
 This is the companion repo to my YouTube video. If you're here from the video — welcome! And if not, check it out below 👇
 
-🎥 **Watch the full tutorial here**  
-🔗 [YouTube Video Link](https://www.youtube.com/@lucasfernandochannel)
+🎥 **Watch the full tutorial [here](https://www.youtube.com/@lucasfernandochannel)**  
 
 ---
 
@@ -95,8 +94,7 @@ This is your first interaction with the screen. It shows a welcome message and t
 📸 If you prefer, you can also follow the schematics below:
 📝 *Double-check the pinout before powering on!*
 
-![Arduino Nano with ST7789 schematics](arduino-nano-with-st7789.png)  
-
+![Arduino Nano with ST7789 schematics](images/arduino-nano-with-st7789.png)  
 
 ---
 
