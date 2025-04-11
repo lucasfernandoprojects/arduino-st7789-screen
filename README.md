@@ -1,4 +1,3 @@
-# arduino-st7789-screen
 # 🌈 Arduino + ST7789 IPS Display: Full Guide & Weather Project
 
 Welcome to the official GitHub repository for the **“ST7789 Display with Arduino”** tutorial!
@@ -6,14 +5,13 @@ Welcome to the official GitHub repository for the **“ST7789 Display with Ardui
 This project will teach you how to:
 - Connect and control a **135x240 IPS ST7789 display** using SPI
 - Customize text, colors, rotation, and background
-- Read data from a **DHT11 sensor**
 - Build a real-world **Temperature & Humidity monitor**
 - Understand the difference between **SPI vs I2C displays**
 
 This is the companion repo to my YouTube video. If you're here from the video — welcome! And if not, check it out below 👇
 
 🎥 **Watch the full tutorial here**  
-🔗 [YouTube Video Link](https://your-link.com)
+🔗 [YouTube Video Link](https://www.youtube.com/@lucasfernandochannel)
 
 ---
 
@@ -49,7 +47,7 @@ The ST7789 display is a **full-color IPS screen** that uses **SPI (Serial Periph
 | ST7789 1.14" IPS Display| 1        | 135x240 resolution, 8 pins       |
 | DHT11 Sensor            | 1        | For temperature & humidity       |
 | Breadboard + Wires      | 1 set    | Jumper wires for connections     |
-| Micro USB Cable         | 1        | To upload code                   |
+| Type-C USB Cable        | 1        | To upload code                   |
 
 ---
 
