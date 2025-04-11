@@ -91,7 +91,7 @@ This is your first interaction with the screen. It shows a welcome message and t
 | CS          | D10         | Chip Select            |
 | BLK         | 5V          | Backlight (optional)   |
 
-📸 If you prefer, you can also follow the schematics below:
+📸 If you prefer, you can also follow the schematics below:</br>
 📝 *Double-check the pinout before powering on!*
 
 ![Arduino Nano with ST7789 schematics](images/arduino-nano-with-st7789.png)  
