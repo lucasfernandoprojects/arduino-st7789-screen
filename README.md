@@ -73,7 +73,7 @@ This is your first interaction with the screen. It shows a welcome message and t
 
 ### 📸 Output Example
 
-![Hello World Output](images/hello-world-output.jpg)
+![Hello World Output](images/project-1-1.jpg)
 
 ---
 
@@ -92,7 +92,7 @@ This is your first interaction with the screen. It shows a welcome message and t
 | CS          | D10         | Chip Select            |
 | BLK         | 5V          | Backlight (optional)   |
 
-📷 *[Click here to view full-resolution diagram](images/st7789-wiring-diagram.png)*  
+📷 *[Click here to view full-resolution diagram](arduino-nano-with-st7789.png)*  
 📝 *Double-check the pinout before powering on!*
 
 ---
@@ -109,7 +109,7 @@ Now let’s add a **DHT11 sensor** and turn this screen into a real-time weather
 
 ### 📸 Output Example
 
-![Temp & Humidity Output](images/temp-humidity-output.jpg)
+![Temp & Humidity Output](images/project-2-2.jpg)
 
 ---
 
@@ -129,7 +129,7 @@ Now let’s add a **DHT11 sensor** and turn this screen into a real-time weather
 | DHT11 VCC   | 5V          | Sensor Power           |
 | DHT11 GND   | GND         | Sensor Ground          |
 
-📷 *[Click here to view wiring diagram](images/temp-humidity-wiring.png)*
+📷 *[Click here to view wiring diagram](images/st7789-and-dht11.png)*
 
 ---
 
@@ -137,7 +137,7 @@ Now let’s add a **DHT11 sensor** and turn this screen into a real-time weather
 
 To make it more visual, the display uses color-coding based on sensor values.
 
-![Color Reading Table](images/reading-values-table.png)
+![Color Reading Table](images/environment-monitoring-table.png)
 
 ---
 
@@ -148,9 +148,17 @@ To make it more visual, the display uses color-coding based on sensor values.
 ├── hello-world.ino              # Hello world display test
 ├── temp-and-humidity.ino        # Weather dashboard using DHT11
 ├── images/
-│   ├── st7789-wiring-diagram.png
-│   ├── temp-humidity-wiring.png
-│   ├── reading-values-table.png
-│   ├── hello-world-output.jpg
-│   └── temp-humidity-output.jpg
-
+│   ├── arduino-nano-with-st7789.png
+│   ├── environment-monitoring-table.png
+│   ├── project-1-1.jpg
+│   ├── project-1-2.jpg
+│   ├── project-1-3.jpg
+│   ├── project-1-4.jpg
+│   ├── project-1-5.jpg
+│   ├── project-2-1.jpg
+│   ├── project-2-2.jpg
+│   ├── project-2-3.jpg
+│   ├── project-2-4.jpg
+│   ├── project-2-5.jpg
+│   ├── st7789-and-dht11.png
+│   ├── st7789-with-arduino-pinout.png
