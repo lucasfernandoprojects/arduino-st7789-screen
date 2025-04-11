@@ -73,7 +73,7 @@ void displayData(float temp, char unit, uint16_t tempColor, float humidity, uint
   tft.fillScreen(ST77XX_BLACK);
 
   // Calculate vertical centering
-  int centerY = (135 - 16) / 2; // Middle of 135px screen minus half text height
+  int centerY = (135 + 32) / 2; // Middle of 135px screen minus half text height
 
   // Print Temperature
   tft.setTextSize(2);

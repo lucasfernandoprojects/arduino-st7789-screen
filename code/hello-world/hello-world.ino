@@ -21,7 +21,7 @@ void setup() {
   tft.fillScreen(ST77XX_BLACK);
   tft.setTextColor(ST77XX_WHITE);
   tft.setTextSize(2);
-  tft.setCursor(10, 10);
+  tft.setCursor(10, 100);
   tft.print("Hello, Arduino!");
 }
 
@@ -29,13 +29,5 @@ void loop() {
   // Example: Dim the backlight over time
   for (int i = 255; i >= 0; i -= 5) {
     analogWrite(TFT_BLK, i);
-    delay(50);
   }
-  delay(500);
-
-  for (int i = 0; i <= 255; i += 5) {
-    analogWrite(TFT_BLK, i);
-    delay(50);
-  }
-  delay(500);
 }
