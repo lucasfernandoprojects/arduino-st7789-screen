@@ -92,8 +92,11 @@ This is your first interaction with the screen. It shows a welcome message and t
 | CS          | D10         | Chip Select            |
 | BLK         | 5V          | Backlight (optional)   |
 
-📷 *[Click here to view full-resolution diagram](arduino-nano-with-st7789.png)*  
+📸 If you prefer, you can also follow the schematics below:
 📝 *Double-check the pinout before powering on!*
+
+![Arduino Nano with ST7789 schematics](arduino-nano-with-st7789.png)  
+
 
 ---
 
@@ -129,7 +132,9 @@ Now let’s add a **DHT11 sensor** and turn this screen into a real-time weather
 | DHT11 VCC   | 5V          | Sensor Power           |
 | DHT11 GND   | GND         | Sensor Ground          |
 
-📷 *[Click here to view wiring diagram](images/st7789-and-dht11.png)*
+📸 If you prefer, you can also follow the schematics below:
+
+![ST7789 with DHT11 schematics](images/st7789-and-dht11.png)
 
 ---
 
