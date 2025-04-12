@@ -21,7 +21,7 @@ void setup() {
   tft.fillScreen(ST77XX_BLACK);
   tft.setTextColor(ST77XX_WHITE);
   tft.setTextSize(2);
-  tft.setCursor(10, 100);
+  tft.setCursor(10, 10);
   tft.print("Hello, Arduino!");
 }
 
