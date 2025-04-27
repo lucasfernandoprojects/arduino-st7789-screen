@@ -10,7 +10,7 @@ This project will teach you how to:
 
 This is the companion repo to my YouTube video. If you're here from the video — welcome! And if not, check it out below 👇
 
-🎥 **Watch the full tutorial [here](https://www.youtube.com/@lucasfernandochannel)**  
+🎥 **Watch the full tutorial [here](https://www.youtube.com/watch?v=cxj0jDbT5vc)**  
 
 ---
 
