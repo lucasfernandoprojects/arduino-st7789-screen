@@ -172,4 +172,5 @@ To make it more visual, the display uses color-coding based on sensor values.
 │   ├── project-2-4.jpg
 │   ├── project-2-5.jpg
 │   ├── st7789-and-dht11.png
+|   ├── st7789-display-front-view.jpg
 │   ├── st7789-with-arduino-pinout.png
