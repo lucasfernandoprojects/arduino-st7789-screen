@@ -1,5 +1,7 @@
 # 🌈 Arduino + ST7789 IPS Display: Full Guide & Weather Project
 
+![ST7789 display - front view](images/st7789-display-front-view.jpg)
+
 Welcome to the official GitHub repository for the **“ST7789 Display with Arduino”** tutorial!
 
 This project will teach you how to:
